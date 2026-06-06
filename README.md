@@ -1,1 +1,2 @@
-# dots
+# sam-hyprland-config
+
